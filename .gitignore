@@ -1,0 +1,6 @@
+yarn-error.log
+database.db
+yarn.lock
+node_modules
+.env
+test*.js
